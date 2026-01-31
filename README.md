@@ -2,8 +2,6 @@
 
 A high-performance, privacy-focused automation converter that transforms **Selenium Java (TestNG)** code into **Playwright TypeScript** using a local LLM (Ollama).
 
-![Project Architecture](https://raw.githubusercontent.com/DipPanchal2510/Selenium2PlaywrightConverterLocalLLM/main/architecture_diagram.png)
-
 ## 🌟 Key Features
 
 - **Local & Private**: Powered by Ollama (`qwen2.5-coder:1.5b`), ensuring your source code never leaves your machine.
